@@ -1,0 +1,6 @@
+# Тестируем VFS и базовые команды
+ls
+ls /home
+cd /home/user
+ls
+cd /non_existent_dir

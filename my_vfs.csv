@@ -1,0 +1,6 @@
+/,dir,
+/home,dir,
+/home/user,dir,
+/home/user/readme.txt,file,"This is a readme file.\nSecond line."
+/etc,dir,
+/etc/config,file,"# System Config\nUSER=admin"

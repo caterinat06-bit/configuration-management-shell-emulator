@@ -10,4 +10,8 @@ echo.
 echo --- Running test with all parameters ---
 python main.py --vfs my_vfs.csv --prompt "TestVFS # " --script startup.txt
 
+echo
+echo "--- Running full VFS test ---"
+python3 main.py --vfs my_vfs.csv --script vfs_test_script.txt
+
 pause
