@@ -1,0 +1,6 @@
+# Это мой стартовый скрипт
+ls -l /home
+cd my_project
+
+# Это закомментированная строка
+unknown_command --help
